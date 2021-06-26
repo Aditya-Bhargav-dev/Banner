@@ -1,0 +1,328 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    margin: 0 20%;
+}
+.box
+{
+    background-color: rgba(12, 12, 36, 0.685);
+    padding: 10%;
+  
+}
+
+.icon
+{
+    display: inline;
+    text-align: center;
+    
+}
+
+
+
+.radius {
+    background: rgb(5, 185, 245);
+    border-radius: 50%;
+    border: 3px solid white;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+    float:left;
+}
+.radius i
+{
+    font-size: 2rem;
+    color: black;
+    padding-top: 6px;
+}
+
+.icon span
+{
+    font-size: 60px;
+    color: red;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.icon p
+{
+    font-size: 12px;
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table tr td 
+{
+    border-collapse: collapse;
+}
+
+td {
+    width: 50%;
+    margin: 0;
+}
+
+.first
+{
+    position: relative;
+    padding-top:70px;
+
+}
+
+.yellow
+{
+    background-color: rgb(247, 170, 28);
+    text-align: center;
+    padding: 5%;
+    color: white;
+}
+
+.blue
+{
+    background-color: rgb(19, 148, 207);
+    text-align: center;
+    padding: 5%;
+    color: white;
+}
+
+.blue span
+{
+    
+    font-size: 2rem;
+    font-style: bold;
+}
+.cred
+{
+    color: rgb(247, 43, 7);
+}
+
+.yellow i
+{
+    font-size: 50px;
+}
+
+.yellow h1
+{
+    font-size: 2rem;
+    font-style: bold;
+}
+.yellow h2
+{
+    font-size: 1.5rem;
+    font-style: bold;
+    display: inline;
+}
+
+.yellow p
+{
+    font-size: 1rem;
+    font-weight: lighter;
+    color: rgb(238, 237, 237);
+}
+
+
+.blue i
+{
+    font-size: 20px;
+}
+
+.blue h1
+{
+    font-size: 2rem;
+    font-style: bold;
+}
+.blue h2
+{
+    font-size: 1.5rem;
+    font-style: bold;
+    display: inline;
+}
+
+.blue p
+{
+    font-size: 1rem;
+    font-weight: lighter;
+    color: rgb(238, 237, 237);
+}
+
+.second
+{
+    position: relative;
+    padding-top:50px;
+
+}
+
+.red
+{
+    background-color:red;
+    padding: 5%;
+    color: white;
+}
+
+.srow1
+{
+    display: inline;
+}
+
+.srow1 span
+{
+    font-size: 1.5rem;
+    font-style: bold;
+}
+
+.srow1 i
+{
+    display: inline;
+    color: black;
+    font-size: 2rem;
+}
+
+.srow1 p
+{
+    display: inline;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgb(238, 237, 237);
+}
+
+.bluetwo
+{
+    background-color: rgb(19, 148, 207);
+    padding: 5%;
+    color: white;
+}
+
+.bluetwo i
+{
+    color: black;
+
+}
+
+.redtwo
+{
+    background-color:red;
+    padding: 5%;
+    color: white;
+    text-align: center;
+}
+
+.redtwo i
+{
+    color: orange;
+    font-size: 3rem;
+}
+
+.redtwo h1,h2
+{
+    font-size: 2rem;
+    font-style: bold;
+    color: white;
+}
+
+.redtwo,.bluetwo,.yellowtwo,.bluethree p
+{
+    font-weight: lighter;
+    color: rgb(238, 237, 237);
+}
+
+
+.yellowtwo
+{
+    background-color: rgb(247, 170, 28);
+    text-align: center;
+    padding: 5%;
+    color: white;
+}
+
+.yellowtwo i
+{
+    color: rgb(248, 119, 14);
+    font-size: 3rem;
+}
+
+.yellowtwo h1,h2
+{
+    font-size: 2rem;
+    font-style: bold;
+}
+
+.bluethree
+{
+    background-color: rgb(19, 148, 207);
+    padding: 5%;
+    color: white;
+}
+
+.bluethree h1,h2
+{
+    font-size: 2.5rem;
+    font-style: bold;
+}
+
+.bluethree i
+{
+    color:black;
+    font-size: 3rem;
+}
+
+.yellowthree
+{
+    background-color: rgb(247, 170, 28);
+    padding: 5%;
+    color: white;
+}
+
+.yellowthree h1
+{
+    font-size: 2.5rem;
+    font-style: bold;
+    display: inline;
+}
+
+.yellowthree i
+{
+    color:rgb(248, 119, 14);
+    font-size: 3rem;
+}
+
+.bluefour
+{
+    background-color: rgb(19, 148, 207);
+    padding: 5%;
+    color: white;
+    text-align: center;
+}
+
+.bluefour h1
+{
+    font-size: 2.5rem;
+    font-style: bold;
+}
+
+.bluefour i
+{
+    color: black;    
+    font-size: 2.5rem;
+}
+
+.redthree
+{
+    background-color: red;
+    padding: 5%;
+    color: white;
+    text-align: center;
+}
+
+.redthree p
+{
+font-weight: lighter;
+color: rgb(238, 237, 237);
+}
+.redthree h2
+{
+    font-size: 2.5rem;
+    font-style: bold;
+}
